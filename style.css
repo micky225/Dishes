@@ -1,0 +1,79 @@
+#head1{
+    /* border: 2px solid black; */
+    height: 10vh;
+    width: 20%;
+    margin-left: 41%;
+}
+h1{
+    color: white;
+}
+#head2{
+    /* border: 2px solid blue; */
+    height: 30vh;
+    width: 100%;
+}
+#head3{
+    /* border: 2px solid black; */
+    height: 50vh;
+    width: 100%;
+    margin-left: 30%;
+}
+.top-container{
+    height: 10vh;
+    /* border: 2px solid blue; */
+
+}
+.domain{
+    margin-left: 3%;
+    height: 5vh;
+    width: 10%;
+    /* color: rgba(255, 48, 117, 0.925); */
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(168, 53, 53);
+}
+.domain:hover,
+.domain:focus{
+    color:rgb(168, 53, 53);
+    background-color: white;
+}
+.main{
+    height: 5vh;
+    width: 10%;
+    /* color: rgba(255, 48, 117, 0.925); */
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(168, 53, 53);
+}
+.main:hover,
+.main:focus{
+    color:rgb(168, 53, 53);
+    background-color: white;
+}
+#mainImage{
+    height: 90%;
+    width: 40%;
+    border-radius: 5%;
+    margin-left: 10%;
+}
+
+#bg1{
+    background-image: url(dishes.JPG);
+    height: 93vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+
+
+
+}
+#bg2{
+    background-color: rgba(0, 0, 0, 0.808);
+    height: 93vh;
+    width: 100%;
+}
+#h1{
+    margin-left: 25%;
+}
